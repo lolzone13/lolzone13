@@ -9,9 +9,7 @@ I'm currently a sophomore at IIT Guwahati majoring in electronics and communicat
 
 I'm currently interested in ML and Algorithms and looking to learn a bit of web development. I also enjoy competitive programming.
 <br>
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /><br>
-
-
+Always willing to learn new things and work on cool stuff, so hit me up!<br>
 
 
 
@@ -28,5 +26,10 @@ Languages and frameworks I'm familiar with <br>
 
 My stats:<br>
 ![lolzone13's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzone13&count_private=true&theme=radical&show_icons=true)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lolzone13" /><t>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzone13" /><br>
+
+
 
 
