@@ -5,8 +5,7 @@
 
 
 
-I'm currently a junior at IIT Guwahati majoring in electronics and communication with a minor in computer science.
-
+I'm currently a junior at IIT Guwahati majoring in electronics and communication engineering.
 I'm currently interested in web development. I also enjoy competitive programming.
 <br>
 Always willing to learn new things and work on cool stuff, so hit me up!<br>
