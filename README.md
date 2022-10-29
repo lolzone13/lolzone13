@@ -22,7 +22,7 @@ Always willing to learn new things and work on cool stuff, so hit me up!<br>
 Stats!:<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lolzone13&theme=monokai)](https://git.io/streak-stats)
-![Lolzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzone&show_icons=true&theme=radical)
+![Lolzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzone13&show_icons=true&theme=radical)
 <br>
 
 
