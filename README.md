@@ -5,8 +5,8 @@
 
 
 
-I'm currently a junior at IIT Guwahati majoring in electronics and communication engineering.
-I'm currently interested in web development. I also enjoy competitive programming.
+I'm a junior at IIT Guwahati majoring in electronics and communication engineering.
+I'm interested in web dev, deep learning and algorithms.
 <br>
 Always willing to learn new things and work on cool stuff, so hit me up!<br>
 
@@ -19,11 +19,14 @@ Always willing to learn new things and work on cool stuff, so hit me up!<br>
 
 
 
-My stats:<br>
-![lolzone13's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzone13&count_private=true&theme=radical&show_icons=true)
+Stats!:<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lolzone13&theme=monokai)](https://git.io/streak-stats)
+![Lolzone's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolzone&show_icons=true&theme=radical)
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lolzone13" /><t>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzone13" /><br>
+
+
+Thanks for stopping by!
 
 
 
